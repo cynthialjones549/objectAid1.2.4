@@ -1,5 +1,5 @@
 # ObjectAid1.2.4
-The ObjectAid UML Explorer for Eclipse
+Read the ObjectAid_Install_Instructions.pdf
 
 Add to your eclipse.ini the following vmargs: 
 --add-opens=java.base/java.lang=ALL-UNNAMED 
